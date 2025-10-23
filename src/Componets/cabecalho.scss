@@ -1,0 +1,56 @@
+
+.cabecalho{
+    background-color: rgb(85, 85, 85);
+    height: 200px;
+    margin: 12px 10px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  padding: 20px;
+  box-shadow: 5px 5px 15px 0px black;
+  border-radius: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+   h1{color: aliceblue;}
+  
+  .link{
+    display: flex;
+      gap: 20px;
+      align-items: center;
+        .um{
+
+width: 190px;
+height: 70px;
+border-radius: 18px;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(255, 0, 0);
+
+
+        }
+
+        .dois{     
+
+width: 190px; 
+height: 70px;
+border-radius: 18px;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(255, 0, 0);
+        }
+       
+        a{
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+            font-size: 30px;
+    
+         
+         
+        }
+    }
+
+   
+}
